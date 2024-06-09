@@ -2,7 +2,7 @@
 
 - This website is a NEWS website like msn.
 - This project uses spring boot on the backend and mysql as the database.
-- You can watch the video where I talked about the project by clicking the this link: --link--
+- You can watch the video where I talked about the project by clicking the this link: https://docs.google.com/presentation/d/1Nc5cjzCQuUyqSiP02aZyYZnbf0itfU1fnMgni570qQc/edit?usp=sharing
 - You can test the project by clicking this link: https://se3355-final-project.onrender.com/
 
 ## Search Function
